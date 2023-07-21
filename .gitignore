@@ -1,5 +1,4 @@
-data/normalized_data.csv
-data/means_stds.csv
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
