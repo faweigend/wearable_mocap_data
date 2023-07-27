@@ -1,4 +1,9 @@
 data
+config.py
+cache
+
+# pycharm folder
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
