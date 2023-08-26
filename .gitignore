@@ -3,6 +3,7 @@ config.py
 cache
 copy_training.ipynb
 training_advanced.ipynb
+scripts/training_adv.ipynb
 
 # pycharm folder
 .idea
